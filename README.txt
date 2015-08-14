@@ -25,10 +25,6 @@ Pro version: [Speedy Loan Calculator for WordPress](http://gavinr.com/speedy-loa
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 1. Upload zip on the WordPress Plugins page
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Go to `Appearance > Plugins` and add the widget to a widget area.
